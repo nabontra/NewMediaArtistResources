@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+This is a collection of artists, tools and resources available regarding the intersection of art & technology.This is a collection of artists, tools and resources available regarding the intersection of art & technology.
+

@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Introduction](README.md)
+* [Artists](first-question.md)
+* [Tools](second-question.md)
+

@@ -1,1 +1,17 @@
-This is the answer to "What is XYZ?".
+Artists
+
+| Name | Website |
+| :--- | :--- |
+| Joanie Lemercier | http://www.joanielemercier.com/ |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
+

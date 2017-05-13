@@ -1,5 +1,5 @@
 {
-	"plugins": ["image-captions", "autocover"],
+	"plugins": ["theme-faq", "image-captions", "autocover"],
 	"pluginsConfig": {
 		"autocover": {
 			"title": "New Media Artists and Resources",

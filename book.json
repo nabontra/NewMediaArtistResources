@@ -1,21 +1,3 @@
 {
-	"plugins": ["theme-faq", "image-captions", "autocover"],
-	"pluginsConfig": {
-		"autocover": {
-			"title": "New Media Artists and Resources",
-			"author": "Nick Bontrager",
-			"font": {
-				"size": null,
-				"family": "Impact",
-				"color": "#FFF"
-			},
-			"size": {
-				"w": 1800,
-				"h": 2360
-			},
-			"background": {
-				"color": "#09F"
-			}
-		}
-	}
+	"plugins": ["theme-faq", "validate-links", "image-captions"]
 }
